@@ -1,0 +1,29 @@
+{
+  "name": "Gabbibbo",
+  "symbol": "GBB",
+  "description": "Gabbibbo, l'idolo leggendario della televisione italiana, simbolo di >
+  "image": "https://github.com/Colava/image/raw/main/Schermata%20del%202024-11-26%2017->
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Power",
+      "value": "Immense"
+    },
+    {
+      "trait_type": "Affiliation",
+      "value": "nobody is gonna know"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/Colava/image/raw/main/Schermata%20del%202024-11-26%2>
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
